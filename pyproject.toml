@@ -1,0 +1,7 @@
+[project]
+name = "cricket-semantic-search"
+version = "0.1.0"
+description = "A semantic model for cricket data retrieval and analysis."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []

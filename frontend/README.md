@@ -1,0 +1,1 @@
+The Dash frontend is implemented in `backend/dash_app.py` and runs in the same app container as Django. Open `http://localhost:8050`; Dash communicates with the Django REST API at `http://localhost:8000`. Both ports are published by Compose.
